@@ -33,4 +33,4 @@ def extended_GCD(a, b):  # a, b is the number which user will input
         Q = Non_modified_A // Non_modified_B
 
 
-extended_GCD(240, 46)
+extended_GCD(a=int(input("a= ")), b=int(input("b= ")))
